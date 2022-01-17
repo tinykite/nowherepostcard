@@ -1,7 +1,7 @@
 {
-  "name": "eleventy-base-blog",
-  "version": "6.0.0",
-  "description": "A starter repository for a blog web site using the Eleventy static site generator.",
+  "name": "nowhere-postcard",
+  "version": "1.0.0",
+  "description": "Shortform feelings on art, nature, and experience",
   "scripts": {
     "build": "eleventy",
     "watch": "eleventy --watch",
@@ -14,15 +14,9 @@
     "url": "git://github.com/11ty/eleventy-base-blog.git"
   },
   "author": {
-    "name": "Zach Leatherman",
-    "email": "zachleatherman@gmail.com",
-    "url": "https://zachleat.com/"
+    "name": "Dakota Sexton",
+    "url": "https://tinykitelab.com/"
   },
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/11ty/eleventy-base-blog/issues"
-  },
-  "homepage": "https://github.com/11ty/eleventy-base-blog#readme",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0",
     "@11ty/eleventy-navigation": "^0.3.2",
