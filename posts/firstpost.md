@@ -14,4 +14,6 @@ But there was at least one person who did think this was a bombshell. The senior
 
 If we couldn't use art as an opportunity to talk about things like health and identity and politics, I thought, what was the point? 
 
-I quit working in publishing not that long afterwards. It was the second time I'd decided that maybe writing or editing didn't really need to be the thing
+I quit working in publishing not that long afterwards. 
+
+I've written off and on since then, but never regularly for longer than a handful of months at a time. In college, I was a bit of an odd child: I majored in
