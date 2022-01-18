@@ -10,4 +10,8 @@ Several years ago, during an interview for an art magazine I worked at, a couple
 
 If you are old and successful and love what you are doing in life, this isn't a bombshell. At least I didn't think: I felt like it was the kind of perfect time to ask them to spill the tea on 20 years of a wildly successful career in the art industry, to tell me about how they'd managed to stay creative and curious, and to celebrate their decision to throw in the towel on the lackluster romance of standing in a windowless exhibition hall playing howdy-doody with a whole bunch of strangers on a concrete floor. 
 
-But sadly, there was a person who did think this was a bombshell. The senior editor I worked with, who told me that we couldn't just up and print a couple of old people casually commenting on the ergonomics of the flooring situation at Navy Pier.
+But there was at least one person who did think this was a bombshell. The senior editor I worked with, who curtly told me that we couldn't just up and print a couple of old people casually commenting on the ergonomics of the flooring situation at Navy Pier. This was in Minnesota, in an old building that I sneezed in frequently because of the copious amount of limestone dust in the air of an otherwise very cool, yet very frigidly cold old brewery in Northeast Minneapolis, so it was less some sort of bra-burning, Devil Wears Prada situation and more of just a lackluster afternoon. But it was still really disappointing. 
+
+If we couldn't use art as an opportunity to talk about things like health and identity and politics, I thought, what was the point? 
+
+I quit working in publishing not that long afterwards. It was the second time I'd decided that maybe writing or editing didn't really need to be the thing
