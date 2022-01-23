@@ -16,11 +16,11 @@
     <header>
     <nav class="nav">
       <h1 class="nav__logo"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
-      <ul class="nav__list">
+      {# <ul class="nav__list">
       {%- for entry in collections.all | eleventyNavigation %}
         <li class="nav__listItem"><a href="{{ entry.url | url }}" class="nav__listLink{% if entry.url == page.url %} nav__listLink--active{% endif %}">{{ entry.title }}</a></li>
       {%- endfor %}
-      </ul>
+      </ul> #}
     </nav>
     </header>
 
