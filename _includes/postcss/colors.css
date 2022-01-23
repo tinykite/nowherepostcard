@@ -1,9 +1,6 @@
 /* Colors */
 :root {
-  --lightgray: #e0e0e0;
-  --gray: #c0c0c0;
-  --darkgray: #333;
-  --navy: #17050f;
-  --blue: #082840;
-  --white: #fff;
+  --nearBlack: #242120;
+  --textGray: #bab6b1;
+  --offWhite: #f8f6f5;
 }
