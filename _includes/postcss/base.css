@@ -1,13 +1,3 @@
-/* Colors */
-:root {
-  --lightgray: #e0e0e0;
-  --gray: #c0c0c0;
-  --darkgray: #333;
-  --navy: #17050f;
-  --blue: #082840;
-  --white: #fff;
-}
-
 /* Global stylesheet */
 * {
   box-sizing: border-box;
@@ -90,35 +80,4 @@ code {
 }
 .highlight-line-remove {
   background-color: #902f2f;
-}
-
-/* Nav */
-.nav {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-.nav__list {
-  list-style: none;
-  padding: 0;
-  display: flex;
-}
-.nav__listItem {
-  margin: 0;
-  padding: 0;
-}
-.nav__listLink--active {
-  pointer-events: none;
-  color: var(--darkgray);
-  text-decoration: none;
-}
-
-.nav__listItem:not(:first-child) {
-  margin-left: 1rem;
-}
-
-/* Posts list */
-.postlist {
-  list-style: none;
-  padding: 0;
 }

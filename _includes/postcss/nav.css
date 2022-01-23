@@ -1,0 +1,24 @@
+/* Nav */
+.nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.nav__list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+.nav__listItem {
+  margin: 0;
+  padding: 0;
+}
+.nav__listLink--active {
+  pointer-events: none;
+  color: var(--darkgray);
+  text-decoration: none;
+}
+
+.nav__listItem:not(:first-child) {
+  margin-left: 1rem;
+}
